@@ -1,6 +1,6 @@
 Welcome to TankFighter, a Jet Fighter adaptation using the Graphics.py module
 By: Mateus Nishimura
-
+<pre>
    ████████╗ █████╗ ███╗   ██╗██╗  ██╗  
    ╚══██╔══╝██╔══██╗████╗  ██║██║ ██╔╝  
       ██║   ███████║██╔██╗ ██║█████╔╝   
@@ -13,7 +13,7 @@ By: Mateus Nishimura
 ██╔══╝  ██║██║   ██║██╔══██║   ██║   ██╔══╝  ██╔══██╗   
 ██║     ██║╚██████╔╝██║  ██║   ██║   ███████╗██║  ██║  
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝  
-
+</pre>
 This version is not yet completed...
 
 Default Controls:
