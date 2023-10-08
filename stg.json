@@ -1,0 +1,1 @@
+{"p1": {"color": "yellow", "upKey": "w", "downKey": "s", "leftKey": "a", "rightKey": "d", "shootKey": "space"}, "p2": {"color": "green", "upKey": "Up", "downKey": "Down", "leftKey": "Left", "rightKey": "Right", "shootKey": "m"}, "ui": {"bgColor": "black", "hlColor": "red", "menuColor": "grey", "font": "courier", "pauseKey": "Escape", "confirmKey": "x"}}
